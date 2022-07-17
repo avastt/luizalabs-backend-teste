@@ -29,3 +29,7 @@ Tecnologias abordadas:
 
 Fluxograma simples para facilitar o entendimento:
 ![image](https://user-images.githubusercontent.com/34377631/179049028-e0f6c39e-2111-4b7c-a17c-90abef99b0da.png)
+
+
+Para testes, após subir a aplicação localmente, esse é o caminho do swagger:
+http://localhost:8080/swagger-ui/#/
