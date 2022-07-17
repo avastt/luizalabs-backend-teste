@@ -32,4 +32,5 @@ Fluxograma simples para facilitar o entendimento:
 
 
 Para testes, após subir a aplicação localmente, esse é o caminho do swagger:
+<br>
 http://localhost:8080/swagger-ui/#/
