@@ -31,6 +31,20 @@ Fluxograma simples para facilitar o entendimento:
 ![image](https://user-images.githubusercontent.com/34377631/179049028-e0f6c39e-2111-4b7c-a17c-90abef99b0da.png)
 
 
+<h4> 3. Como rodar localmente: </h4>
+<br>
+1. Clonar o repositório para seu ambiente local.
+<br>
+2. Ter MondoDB instalado e configurado.
+<br>
+3. Rodar o projeto Spring boot.
+<br>
+4. Acessar o swagger(ou postman) para chamar os serviços.
+<br>
+<br>
+Sugiro fazer o teste via eclipse e mongoDb Compass para melhor visualização dos serviços
+<br>
+<br>
 Para testes, após subir a aplicação localmente, esse é o caminho do swagger:
 <br>
 http://localhost:8080/swagger-ui/#/
